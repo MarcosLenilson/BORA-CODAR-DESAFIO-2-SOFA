@@ -1,6 +1,41 @@
 # PRODUCT CARD - SOFÁ
 
-<h3>=> O DESAFIO <=</h3>
+<table>
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>Desafio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Início 🏁</td>
+          <td>11/01/2023</td>
+        </tr>
+        <tr>
+          <td>Finalizado ✅</td>
+          <td>11/01/2023</td>
+        </tr>
+        <tr>
+          <td>Refatorado ↩</td>
+          <td>20/01/2023</td>
+        </tr>
+        <tr>
+          <td>URL</td>
+          <td>https://github.com/MarcosLenilson/BORA-CODAR-DESAFIO-2-SOFA</td>
+        </tr>
+        <tr>
+          <td>O desafio</td>
+          <td>Recriar o layout de um Card de Produto</td>
+        </tr>
+      </tbody>
+    </table>
+
+<h3>=> DETALHES <=</h3>
+
+<p>O desafio foi proposto pela Rocketseat em seu novo projeto #BoraCodar "Desafio 02", na qual tem o objetivo de recriar um layout de um card de Produto que foi disponibilizado no https://boracodar.dev/ .
+
+<h3>=> DESAFIO PROPOSTO <=</h3>
 
 <p>Ao clicar no botão 360°, a página deve exibir uma das duas opções (conforme seu conhecimento técnico): </p>
 
